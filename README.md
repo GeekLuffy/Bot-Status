@@ -1,7 +1,7 @@
 # Telegram Bot Status Repository
 
 Monitor your bots' uptime and CPU usage effortlessly with this Telegram bot. It refreshes automatically, ensuring your bots are always active. Runs 24/7 for your convenience.
-
+ 
 [![Made with Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 [![Stars](https://img.shields.io/github/stars/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/stargazers)
 [![Forks](https://img.shields.io/github/forks/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/network/members)
