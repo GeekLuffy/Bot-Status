@@ -3,19 +3,19 @@
 Monitor your bots' uptime and CPU usage effortlessly with this Telegram bot. It refreshes automatically, ensuring your bots are always active. Runs 24/7 for your convenience.
 
 [![Made with Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
-[![Stars](https://img.shields.io/github/stars/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status/stargazers)
-[![Forks](https://img.shields.io/github/forks/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status/network/members)
-[![Watchers](https://img.shields.io/github/watchers/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status/watchers)
-[![Repository Size](https://img.shields.io/github/repo-size/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status)
-[![Contributors](https://img.shields.io/github/contributors/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/MaybeBots/Bot-Status?style=for-the-badge)](https://github.com/MaybeBots/Bot-Status/issues)
+[![Stars](https://img.shields.io/github/stars/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/stargazers)
+[![Forks](https://img.shields.io/github/forks/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/network/members)
+[![Watchers](https://img.shields.io/github/watchers/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/watchers)
+[![Repository Size](https://img.shields.io/github/repo-size/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status)
+[![Contributors](https://img.shields.io/github/contributors/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/GeekLuffy/Bot-Status?style=for-the-badge)](https://github.com/GeekLuffy/Bot-Status/issues)
 
 ## Config Vars
 1. `API_ID` : Telegram API_ID, obtain it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, obtain it from my.telegram.org/apps
 3. `SESSION_STRING` : A valid Pyrogram session string, get it from [@MaybexSessionBot](https://t.me/MaybexSessionBot)
 4. `BOT_TOKEN` : A valid bot token, obtain it from [@BotFather](https://t.me/BotFather)
-5. `BOT_LIST` : Your bot username list without '@' (Example: Maybexsessionbot MaybexHackBot)
+5. `BOT_LIST` : Your bot username list without '@' (Example: Auto_Rename_bot Edge_Rename_Bot)
 6. `CHANNEL_OR_GROUP_ID` : Your channel's or group's Telegram id (Example: -1001246808642)
 7. `MESSAGE_ID` : Telegram id of message from your channel or group (Example: 10)
 8. `OWNER_ID` : Owner id (Example: 1357907531 2468097531 3579864213)
@@ -28,12 +28,12 @@ Monitor your bots' uptime and CPU usage effortlessly with this Telegram bot. It 
 
 **For Pyrogram**
 ```
-pip3 install git+https://github.com/maybebots/bot-status.git@pyro
+pip3 install git+https://github.com/GeekLuffy/bot-status.git@pyro
 ```
 
 **For Telethon**
 ```
-pip3 install git+https://github.com/maybebots/bot-status.git@tele
+pip3 install git+https://github.com/GeekLuffy/bot-status.git@tele
 ```
 
 2. Import the Client Class:
@@ -94,7 +94,7 @@ To deploy on Heroku:
 
 2. Click the Deploy button below:
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MaybeBots/Bot-Status)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GeekLuffy/Bot-Status)
 
 ### Vps
 
@@ -107,7 +107,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 2. Clone the repository and navigate to the project directory:
 ```
-git clone https://github.com/maybebots/Bot-Status && cd Bot-Status
+git clone https://github.com/GeekLuffy/Bot-Status && cd Bot-Status
 ```
 
 3. Install the required packages:
@@ -132,8 +132,8 @@ python3 main.py
 ```
 
 ## Support
-- [Channel](https://t.me/Maybebots)
-- [Group](https://t.me/MaybeBotsSupport)
+- [Channel](https://t.me/EdgeBots)
+- [Group](https://t.me/EdgeBotsSupport)
 
 ## Credits
 - [TeLe TiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs)
