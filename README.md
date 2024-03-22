@@ -138,3 +138,4 @@ python3 main.py
 ## Credits
 - [TeLe TiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Suraj](https://t.me/maybesuraj)
